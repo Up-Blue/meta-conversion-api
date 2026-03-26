@@ -15,9 +15,7 @@ ___INFO___
   "displayName": "Meta Conversion API Tag by Up Blue",
   "categories": [
     "ADVERTISING",
-    "ANALYTICS",
     "CONVERSIONS",
-    "MARKETING",
     "REMARKETING"
   ],
   "brand": {
