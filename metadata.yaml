@@ -1,9 +1,7 @@
 homepage: "https://www.upblue.pl/"
-documentation: "https://www.upblue.pl/"
-versions: 
-  - sha: 05b6aaafe37c248c3b2ce85cb4b4e9a479d9211e
-    changeNotes: Rename template.
-  - sha: ca3644e557937cf7eda05f48175754adce79852b
-    changeNotes: Changed LICENSE
-  - sha: c2ad9b9132ca0992843b4e35799484b3059512df
+documentation: "https://github.com/Up-Blue/meta-conversion-api#readme"
+versions:
+  - sha: cb98a084ebd43bb31d4b7521cc6b15b31acccfad
+    changeNotes: Reduce categories to 3 as required by GTM Gallery.
+  - sha: 3224b02dd42c860a4871ef26c81382b6fed6e17a
     changeNotes: Initial release.
